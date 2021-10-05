@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "Todolist": 50
+  },
+  "models": {
+    "Todolist": {
+      "16": "{\"title\":\"Afiar uma faca\",\"description\":\"Afiar uma faca com a pedra de amolar da cozinha\",\"limitDate\":\"2021-10-07\",\"isComplete\":true,\"id\":16}",
+      "19": "{\"title\":\"Afiar uma faca\",\"description\":\"Afiar uma faca com a pedra de amolar da cozinha\",\"limitDate\":\"2021-10-07\",\"isComplete\":false,\"id\":19}",
+      "20": "{\"title\":\"Afiar uma faca\",\"description\":\"Afiar uma faca com a pedra de amolar da cozinha\",\"limitDate\":\"2021-10-07\",\"isComplete\":false,\"id\":20}",
+      "21": "{\"title\":\"Afiar uma faca\",\"description\":\"Afiar uma faca com a pedra de amolar da cozinha\",\"limitDate\":\"2021-10-07\",\"isComplete\":false,\"id\":21}",
+      "24": "{\"title\":\"Afiar uma faca\",\"description\":\"Afiar uma faca com a pedra de amolar da cozinha\",\"limitDate\":\"2021-10-07\",\"isComplete\":false,\"id\":24}",
+      "26": "{\"title\":\"Afiar uma faca\",\"description\":\"Afiar uma faca com a pedra de amolar da cozinha\",\"limitDate\":\"2021-10-07\",\"isComplete\":false,\"id\":26}"
+    }
+  }
+}
